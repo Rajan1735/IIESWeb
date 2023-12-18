@@ -1,0 +1,6 @@
+@IIESWebApi_HostAddress = http://localhost:5241
+
+GET {{IIESWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
